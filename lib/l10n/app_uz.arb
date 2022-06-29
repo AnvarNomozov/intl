@@ -1,4 +1,5 @@
 {
     "language" : "Uzbek",
-    "helloWorld" : "Salom Dunyo!"
+    "helloWorld" : "Salom Dunyo!",
+    "aboutLanguage": "Bu O'zbek tili"
 }

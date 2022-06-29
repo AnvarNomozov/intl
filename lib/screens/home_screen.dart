@@ -48,11 +48,18 @@ class _HomeScreenState extends State<HomeScreen> {
                 Text(
                   AppLocalizations.of(context)!.helloWorld,
                   style: const TextStyle(
-                    fontSize: 20.0,
+                    fontSize: 30.0,
                     fontWeight: FontWeight.w500,
                   ),
                 ),
-                const SizedBox(height: 85.0),
+                const SizedBox(height: 25.0),
+                Text(
+                  AppLocalizations.of(context)!.aboutLanguage,
+                  style: const TextStyle(
+                    fontSize: 35.0,
+                    fontWeight: FontWeight.w500,
+                  ),
+                ),
               ],
             ),
           ),

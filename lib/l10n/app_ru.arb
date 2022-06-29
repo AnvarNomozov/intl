@@ -1,4 +1,5 @@
 {
     "language" : "Russian",
-    "helloWorld": "Привет, мир"
+    "helloWorld": "Привет, мир",
+    "aboutLanguage":"Этот язык русский"
 }

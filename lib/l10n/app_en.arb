@@ -6,6 +6,10 @@
    "helloWorld" : "Hello Wold",
     "@helloWorld": {
         "description": "A programmer greeting"
+    },
+    "aboutLanguage" : "This language is English",
+    "@aboutLanguage":{
+        "description": "Good"
     }
 
 }
